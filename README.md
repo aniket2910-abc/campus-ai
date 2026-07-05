@@ -38,13 +38,12 @@ CampusAI is an AI-powered college assistant designed to help students quickly ac
 ### 🤖 AI Conversation
 ![AI Conversation](screenshots/Screenshot%202026-07-05%20135658.png)
 
-### 📚 College Information
+###  AI Conversation-2
 ![College Information](screenshots/Screenshot%202026-07-05%20135747.png)
 
-### 🎓 Admission Assistance
 ![Admission Assistance](screenshots/Screenshot%202026-07-05%20135810.png)
 
-### 💼 Placement Information
+### 💼 About Section of College
 ![Placement Information](screenshots/Screenshot%202026-07-05%20135905.png)
 
 ### 📱 Responsive Design
@@ -56,7 +55,7 @@ CampusAI is an AI-powered college assistant designed to help students quickly ac
 ### 🌙 Modern UI
 ![Modern UI](screenshots/Screenshot%202026-07-05%20140001.png)
 
-### 🚀 Final Interface
+### 🚀 Placement Interface
 ![Final Interface](screenshots/Screenshot%202026-07-05%20140025.png)
 
 
