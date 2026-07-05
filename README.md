@@ -2,6 +2,8 @@
 
 CampusAI is an AI-powered college assistant designed to help students quickly access important college information through a simple and interactive chatbot interface. It provides instant answers to common queries related to admissions, courses, placements, fees, and other campus-related information.
 
+Link to access website- https://aniket2910-abc.github.io/campus-ai/
+
 ---
 
 ## ✨ Features
